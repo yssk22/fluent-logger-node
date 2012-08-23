@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/yssk22/fluent-logger-node.png)](http://travis-ci.org/yssk22/fluent-logger-node)
 # fluent-logger for node.js
 
 fluent-logger implementation for node.js inspired by [fluent-logger-python].
